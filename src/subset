@@ -1,0 +1,2 @@
+Subset is the adjacent and non adjacent pairs of elements which may be sequence or not sequence.
+In subset only combination are taken not change in order ("ac" and "ca" are same)
